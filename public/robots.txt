@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /stuff/http
+Disallow: /stuff/http:
+Disallow: /stuff/http:/
+Disallow: /stuff/https
+Disallow: /stuff/https:
+Disallow: /stuff/https:/
